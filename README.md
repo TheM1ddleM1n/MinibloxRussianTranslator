@@ -41,3 +41,7 @@ You should see in the browser console:
 [RU CHAT] Russian offline chat loaded
 [RU CHAT] ✅ Russian offline chat enabled
 ```
+
+👤 Author
+
+Made by TheM1ddleM1n
