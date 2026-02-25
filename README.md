@@ -1,6 +1,6 @@
-# 🇷🇺 Miniblox Russian Offline Chat
+# 🇷🇺 Miniblox Russian Chat
 
-Simple **offline transliteration script** for Miniblox.  
+Simple **transliteration script** for Miniblox.  
 Automatically converts Latin characters into Cyrillic when sending chat messages.
 
 No APIs. No requests. No external dependencies.  
@@ -38,8 +38,8 @@ You’ll need one of these browser extensions:
 
 You should see in the browser console:
 ```
-[RU CHAT] Russian offline chat loaded
-[RU CHAT] ✅ Russian offline chat enabled
+[RU CHAT] Russian chat loaded
+[RU CHAT] ✅ Russian chat enabled
 ```
 
 👤 Author
