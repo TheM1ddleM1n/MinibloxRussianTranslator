@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Miniblox Russian Offline Chat
+// @name         Miniblox Russian Chat
 // @namespace    tuff ✔️
 // @description  simple translator for game chat!
-// @version      1.0
+// @version      1.1
 // @match        https://miniblox.io/
 // @author       TheM1ddleM1n
 // @grant        none
@@ -11,7 +11,7 @@
 
 (function() {
     'use strict';
-    console.log("[RU CHAT] Russian offline chat loaded");
+    console.log("[RU CHAT] Russian chat loaded");
 
     const RU_MAP = {
         a:"а", b:"б", c:"ц", d:"д", e:"е", f:"ф", g:"г", h:"х",
@@ -49,7 +49,7 @@
                 }
                 return originalSubmit.apply(this, args);
             };
-            console.log("[RU CHAT] ✅ Russian offline chat enabled");
+            console.log("[RU CHAT] ✅ Russian chat enabled");
         } catch {
             setTimeout(waitForGame, 1000);
         }
