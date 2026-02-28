@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Miniblox Russian Chat
-// @namespace    tuff ✔️
+// @namespace    ts is tuff fr ✔️
 // @description  simple translator for game chat!
 // @version      1.1
 // @match        https://miniblox.io/
